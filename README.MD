@@ -1,10 +1,10 @@
-<p align="center">
-    preview do podcast
-</p>
+## Áudio
+Aqui está o link para o arquivo de áudio:
+[Ouvir 1231.MP3](output/1231.MP3)
 
-<div align="center">
-    <audio src="output/1231.MP3" controls title="Rock & Roteiro"></audio>
-</div>
+## Imagem
+Aqui está a imagem:
+![Imagem](assets/c8d2ea7ba0f39bf8b56baebb9c5ae447.jpg)
 
 # Projeto Podcast Gerado por I.A.s
 
