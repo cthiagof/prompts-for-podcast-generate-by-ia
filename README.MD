@@ -15,6 +15,7 @@ Aqui está a imagem:
 
 - [ChatGPT](https://chat.openai.com/) 
 - [lazypy](https://lazypy.ro/tts/)
+- [Mage](https://www.mage.space/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
